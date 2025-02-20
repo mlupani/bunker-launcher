@@ -1,3 +1,6 @@
 [submodule "client-gateway"]
 	path = client-gateway
 	url = https://github.com/FacundoInza/gateway-microservice.git
+[submodule "binance-accounts"]
+	path = binance-accounts
+	url = https://github.com/FacundoInza/binance-microservice.git
